@@ -1,0 +1,8 @@
+name: tictactoe
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - pytorch
+  - torchvision
